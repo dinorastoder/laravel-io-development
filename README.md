@@ -1,3 +1,12 @@
+# Warning
+
+The progress on this repository has basically completely stalled. Due to the fact that the entire effort lies on essentially two people, it's become unmanageable.
+
+Many of the goals that we had for this project (including being an example of command-oriented interface and domain-events) are half-implemented, at best.
+
+We are always looking for help with this project. If you'd like to help please contact ShawnMcCool on FreeNode.net.
+
+
 ## Laravel.IO Community Portal
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/50a7431f-66b0-4221-8837-7ccf1924031e/mini.png)](https://insight.sensiolabs.com/projects/50a7431f-66b0-4221-8837-7ccf1924031e)
